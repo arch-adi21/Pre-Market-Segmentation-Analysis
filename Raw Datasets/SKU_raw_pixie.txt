@@ -1,0 +1,15 @@
+    Service Name        Prices
+
+    Haircut (Male):       149
+    Haircut (Female):     249
+    Beard Trimming:       49
+    Eyebrow Threading:    74
+    De-tan:               249
+    Deep Hydrating:       649
+    Royal De-tan:         529
+    Upper Body Waxing:    1399
+    Lower Body Waxing:    1399
+    Manicure:             239
+    Pedicure:             249
+    Full Body Massage:    1359
+    Olive Hair Treatment: 249
